@@ -20,6 +20,8 @@ gem 'font-awesome-sass'
 gem 'simple_form'
 gem 'autoprefixer-rails'
 gem 'figaro'
+gem 'cloudinary', '1.1.0'
+gem 'carrierwave'
 
 
 # Use jquery as the JavaScript library
